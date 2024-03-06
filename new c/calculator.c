@@ -21,7 +21,6 @@ int main()
         if (y == 0)
         {
             printf("denominator cannt be  zero");
-            // break;
         }
         else
         {
