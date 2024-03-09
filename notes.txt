@@ -1,0 +1,28 @@
+hex decimal .
+oct decimal .
+oct decimal to decimal conversion and vice versa.
+hex decimal to decimal conversion and vice versa.
+data types in C .
+place Holders in C - https://www.quora.com/What-are-the-placeholders-used-in-C  -
+If else.
+for loop.
+nested loops.
+nested if else.
+if else if.
+shift operators
+ternary operators(nested)
+calulator on loop
+
+09/03
+shift operator code
+ternary cal
+incri operators with code
+array
+strings
+binary octa hexa  code (string div)
+
+
+
+malloc
+calloc
+structure and union 
