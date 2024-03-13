@@ -19,10 +19,17 @@ calulator on loop
 ..incri operators with code
 ..array
 ..strings
+13/03
+use string in -> octa 
+arr in hexa
 binary octa hexa  code (string div)
-
-
-
 malloc
 calloc
-structure and union 
+
+
+
+
+
+
+structure and union
+pointer 

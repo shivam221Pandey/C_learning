@@ -13,7 +13,9 @@ int main()
         i++; //1, 2, 3
         // printf("%d", result);
     }
-    for(i-1; i >= 0; i--){
+    // printf( "result %d\n", i);
+    for(i= i - 1; i >= 0; i--){
+        // printf("%d\n", i);
         printf("%d", arr[i]);
         }
 
