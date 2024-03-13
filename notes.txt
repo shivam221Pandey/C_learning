@@ -14,11 +14,11 @@ ternary operators(nested)
 calulator on loop
 
 09/03
-shift operator code
-ternary cal
-incri operators with code
-array
-strings
+..shift operator code
+..ternary cal
+..incri operators with code
+..array
+..strings
 binary octa hexa  code (string div)
 
 
